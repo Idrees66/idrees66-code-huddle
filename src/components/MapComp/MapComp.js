@@ -44,7 +44,7 @@ const MapComp = () => {
     return (
         <div class="flex items-center justify-center h-80 mb-4 rounded bg-gray-50 dark:bg-gray-800">
             <LoadScript
-                googleMapsApiKey='AIzaSyD30ExheQG7cZC9HRgRd0X4Y47pyapW53U'>
+                googleMapsApiKey='lorem_ipsum_api_key'>
                 <GoogleMap
                     mapContainerStyle={{ height: "100%", width: "100%" }}
                     zoom={13}

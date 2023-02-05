@@ -24,7 +24,14 @@
 
     Your site is now running at http://localhost:8000  
 
+### Desktop View
+![](https://raw.githubusercontent.com/Idrees66/idrees66-code-huddle/master/screenshots/2xl.png)
 
+### Mobile View 
+![](https://raw.githubusercontent.com/Idrees66/idrees66-code-huddle/master/screenshots/sm.png) 
+![](https://raw.githubusercontent.com/Idrees66/idrees66-code-huddle/master/screenshots/sm-navbar.png)
 
+### IPad View 
+![](https://raw.githubusercontent.com/Idrees66/idrees66-code-huddle/master/screenshots/md.png) 
 
 
